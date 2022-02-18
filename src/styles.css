@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
